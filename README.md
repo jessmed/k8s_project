@@ -22,3 +22,4 @@ Create a 3 different environments with different configurations.
 - STAGING environment
 
 ## New changes
+This branch will be the testing branch where we will test the new functionalities that we are going to be working on.
