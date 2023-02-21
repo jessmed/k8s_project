@@ -22,3 +22,4 @@ Create a 3 different environments with different configurations.
 - STAGING environment
 
 ## New changes
+This branch has been created from the main branch, ant it´s going to be the branch where we´re going to develop de project.
