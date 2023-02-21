@@ -22,3 +22,4 @@ Create a 3 different environments with different configurations.
 - STAGING environment
 
 ## New changes
+Finally the main branch will be the production one where i will be committing the releases and stable versions of the project.
