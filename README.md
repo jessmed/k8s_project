@@ -1,5 +1,9 @@
 # k8s_project
 
+## DEVELOPMENT BRANCH
+This branch has been created from the main branch, ant it´s going to be the branch where we´re going to develop de project.
+
+## ABSTRACT
 In this project i will be testing some new technologies i am learning about.
 It will be a dummy project making some basic tests.
 The main idea is to set up the following points:
@@ -21,5 +25,3 @@ Create a 3 different environments with different configurations.
 - TEST environment
 - STAGING environment
 
-## New changes
-This branch has been created from the main branch, ant it´s going to be the branch where we´re going to develop de project.
